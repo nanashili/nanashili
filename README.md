@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nanashili" alt="nanashili" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/linanashi" target="blank"><img src="https://img.shields.io/twitter/follow/linanashi?logo=twitter&style=for-the-badge" alt="linanashi" /></a> </p>
+
 - 🔭 I’m currently working on [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
 - 🌱 I’m currently learning **Python and Typescript**
@@ -15,6 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/linanashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="linanashi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tihan-nico-paxton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tihan-nico-paxton" height="30" width="40" /></a>
+<a href="https://fb.com/very.nanashi.li" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="very.nanashi.li" height="30" width="40" /></a>
+<a href="https://instagram.com/nanashilli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nanashilli" height="30" width="40" /></a>
+<a href="https://discord.gg/2032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2032" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
