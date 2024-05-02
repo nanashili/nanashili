@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, Kotlin, Swift, React**
 
-- 📫 How to reach me **nanashili@plexus.dev**
+- 📫 How to reach me **nanashili@auroraeditor.com**
 
 - ⚡ Fun fact **I am hilarious**
 
